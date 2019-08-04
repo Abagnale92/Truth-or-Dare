@@ -1,0 +1,130 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Obbligo_o_verita.MainPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    xmlns:ctrl="clr-namespace:Obbligo_o_verita.Controls"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded">
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="Storyboard1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="17.164"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="5.224"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0" Value="395.523"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="10.448"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimation Duration="0" To="0.991" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)" Storyboard.TargetName="image" d:IsOptimized="True"/>
+            <DoubleAnimation Duration="0" To="0.99" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" Storyboard.TargetName="image" d:IsOptimized="True"/>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="28.358"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="13.433"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="5.971"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="1.493"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="image2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-234.329"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="1.492"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-395.522"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="image3">
+                <DiscreteObjectKeyFrame KeyTime="0">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Collapsed</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.6">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)" Storyboard.TargetName="image3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="1.995"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="0.861"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" Storyboard.TargetName="image3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="1.9"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="0.873"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="74.627"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="16.417"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="image3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.6" Value="63.433"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.4" Value="8.955"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot è la griglia radice in cui viene inserito tutto il contenuto della pagina-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+            <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene il nome dell'applicazione e il titolo della pagina-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - inserire ulteriore contenuto qui-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="47*"/>
+                <ColumnDefinition Width="33*"/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="bg" HorizontalAlignment="Left" Height="800" VerticalAlignment="Top" Width="480" Source="/Img/Background2.png" Grid.ColumnSpan="2"/>
+            <Image x:Name="image3" Margin="10,83,122.09,576" Source="Img/kiss.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <CompositeTransform/>
+                </Image.RenderTransform>
+            </Image>
+            <Image x:Name="image1" Margin="102.686,178.492,149.314,516.507" Source="Img/dare.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Grid.ColumnSpan="2">
+                <Image.RenderTransform>
+                    <CompositeTransform Rotation="7.469"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image x:Name="image2" Margin="221,151,181,594" Source="Img/or.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+                <Image.RenderTransform>
+                    <CompositeTransform/>
+                </Image.RenderTransform>
+            </Image>
+            <Image x:Name="image" Margin="115,34,35,616" Source="Img/thruth.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+                <Image.RenderTransform>
+                    <CompositeTransform/>
+                </Image.RenderTransform>
+            </Image>
+            <TextBlock x:Name="play" FontFamily="the_quiet_scream.ttf#The quiet scream" HorizontalAlignment="Center" Margin="115,386,136,316" TextWrapping="Wrap" VerticalAlignment="Center" Width="229" Height="98" FontSize="65" Foreground="Black" Grid.ColumnSpan="2" FontWeight="Bold" TextAlignment="Center" Tap="play_Tap" RenderTransformOrigin="0.515,0.748" Text=" gioca"/>
+            <TextBlock x:Name="database" FontFamily="the_quiet_scream.ttf#The quiet scream" HorizontalAlignment="Center" Margin="10,484,0,229" TextWrapping="Wrap" Text="database" VerticalAlignment="Center" Width="470" Height="87" FontSize="65" Foreground="Black" Grid.ColumnSpan="2" FontWeight="Bold" TextAlignment="Center" Tap="database_Tap"/>
+            <TextBlock x:Name="info" FontFamily="the_quiet_scream.ttf#The quiet scream" HorizontalAlignment="Center" Margin="178,576,181,166" TextWrapping="Wrap" VerticalAlignment="Center" Width="121" Height="58" FontSize="65" Foreground="Black" FontWeight="Bold" TextAlignment="Center" Tap="info_Tap" Grid.ColumnSpan="2" RenderTransformOrigin="0.471,-0.371">
+            	<Run FontSize="36" Text="info"/>
+            </TextBlock>
+            <TextBlock x:Name="credits" FontFamily="the_quiet_scream.ttf#The quiet scream" HorizontalAlignment="Center" Margin="154,639,160,88" TextWrapping="Wrap" VerticalAlignment="Center" Width="166" Height="73" FontSize="36" Foreground="Black" FontWeight="Bold" TextAlignment="Center" Tap="credits_Tap" Grid.ColumnSpan="2" RenderTransformOrigin="0.471,-0.371" Text="credits"/>
+        </Grid>
+       <ctrl:FeedbackOverlay Grid.RowSpan="2" EnableAnimation="True" />
+        <Grid x:Name="griglia" HorizontalAlignment="Center" Height="100" Margin="0" VerticalAlignment="Bottom" Width="621" Grid.Row="1">
+            <my:AdControl x:Name="firstAd" Width="480" Height="80" AdUnitId="10728926" ApplicationId="94460e7c-cb14-40b8-ab0a-3ba5c7d83e98" Margin="0" VerticalAlignment="Bottom" />
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

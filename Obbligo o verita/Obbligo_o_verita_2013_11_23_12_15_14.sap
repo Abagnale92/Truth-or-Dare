@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProfilerSession Type="MemoryPerformanceAnalysis" Name="Obbligo o verita3290772176">
+  <TargetApplication Name="Obbligo_o_verita" SourceProject="Obbligo o verita.csproj" Type="WindowsPhone71">
+    <ApplicationBinary Path="Bin\Debug\Obbligo_o_verita.xap" Timestamp="22/11/2013 12.02.15" />
+    <ApplicationIconPath Path="" />
+    <SymbolPaths>
+      <Path Value="Bin\Debug\" />
+    </SymbolPaths>
+  </TargetApplication>
+  <Settings>
+    <Probe Name="Visual">
+      <CollectElementLevelCosting Enabled="True" />
+      <CollectSnapshots Enabled="True" Interval="1000" Resampling="2" />
+      <CollectMediaEvents Enabled="False" />
+      <CollectCacheDetails Enabled="False" />
+    </Probe>
+    <Probe Name="Code">
+      <SampleCallStack Enabled="False" Depth="" Interval="1000" />
+      <CollectPerformanceCounters Enabled="False" />
+    </Probe>
+    <Probe Name="Memory">
+      <MemoryCallStack Enabled="True" Depth="8" />
+      <ObjectTree Enabled="True" Interval="5" />
+    </Probe>
+  </Settings>
+  <Data>
+    <Logs>
+      <File Type="NativeFormat" Path="PerfLogs\Obbligo o verita3290772176\tmp8CDD.spl" />
+    </Logs>
+  </Data>
+  <TargetDeviceSettings OSVersion="7.10.8773" AvailablePhysicalMemoryAtStartup="146247680" ProcessorArchitectureType="Intel" ProcessorInformation="X86" IsEmulator="True" />
+</ProfilerSession>

@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Verita>
+  <Richiesta id= "1"
+Contenuto = "A chi ti rivolgi per un consiglio?"
+/>
+  <Richiesta id= "2"
+  Contenuto = "A chi ti ispiri?"
+/>
+  <Richiesta id= "3"
+  Contenuto = "A che età si è ufficialmente vecchi?"
+/>
+  <Richiesta id= "4"
+  Contenuto = "A che età hai smesso di piangere?"
+/>
+  <Richiesta id= "5"
+  Contenuto = "A che età hai dato il primo bacio?"
+/>
+  <Richiesta id= "6"
+  Contenuto = "A che età hai preso la prima cotta?"
+/>
+  <Richiesta id= "7"
+  Contenuto = "A che età hai cominciato a cucinare?"
+/>
+  <Richiesta id= "8"
+  Contenuto = "A che età hai smesso di fare il bagno con tua sorella o tuo fratello?"
+/>
+  <Richiesta id= "9"
+  Contenuto = "A quali giochi sei più bravo/a?"
+/>
+  <Richiesta id= "10"
+  Contenuto = "A quali videogame sei più bravo/a?"
+/>
+  <Richiesta id= "11"
+  Contenuto = "A quali giochi da tavolo ti piace giocare?"
+/>
+  <Richiesta id= "12"
+  Contenuto = "A quali giochi in cui si beve ti piace giocare?"
+/>
+  <Richiesta id= "13"
+  Contenuto = "A quali giochi da bar hai giocato?"
+/>
+  <Richiesta id= "14"
+  Contenuto = "A quante persone hai detto ti amo?"
+/>
+  <Richiesta id= "15"
+  Contenuto = "All'ultimo matrimonio a cui hai partecipato è capitato qualcosa di interessante?"
+/>
+  <Richiesta id= "16"
+  Contenuto = "A chi assomigli di più fra i tuoi genitori?"
+/>
+  <Richiesta id= "17"
+  Contenuto = "A scuola eviti qualcuno?"
+/>
+  <Richiesta id= "18"
+  Contenuto = "A casa eviti qualcuno?"
+/>
+  <Richiesta id= "19"
+  Contenuto = "Birra o Vino?"
+/>
+  <Richiesta id= "20"
+  Contenuto = "Caffè o tè?"
+/>
+  <Richiesta id= "21"
+  Contenuto = "Cambieresti sesso se potessi?"
+/>
+  <Richiesta id= "22"
+  Contenuto = "Che condizione atmosferica preferisci?"
+/>
+  <Richiesta id= "23"
+  Contenuto = "Che prodotti per capelli usi?"
+/>
+  <Richiesta id= "24"
+  Contenuto = "Che scuse usi per attaccare a telefono?"
+/>
+  <Richiesta id= "25"
+  Contenuto = "Che scuse usi per smetterla di chattare?"
+/>
+  <Richiesta id= "26"
+  Contenuto = "Che scuse usi con i tuoi genitori per farti dare dei soldi?"
+/>
+  <Richiesta id= "27"
+  Contenuto = "Che scuse usi con i tuoi genitori per uscire?"
+/>
+  <Richiesta id= "28"
+  Contenuto = "Che scuse inventi quando fai tardi?"
+/>
+  <Richiesta id= "29"
+  Contenuto = "Che tipo di relazione preferisci : sfrenata e passionale o calma e serena?"
+/>
+  <Richiesta id= "30"
+  Contenuto = "Chi era il tuo migliore amico da piccolo/a?"
+/>
+  <Richiesta id= "31"
+  Contenuto = "Chi era la tua migliore amica da piccolo/a?"
+/>
+  <Richiesta id= "32"
+  Contenuto = "Chi sono attualmente i tuoi migliori amici?"
+/>
+  <Richiesta id= "33"
+  Contenuto = "Chi parla troppo a telefono secondo te?"
+/>
+  <Richiesta id= "34"
+  Contenuto = "Chi ha la voce più alta tra i presenti?"
+/>
+  <Richiesta id= "35"
+  Contenuto = "Chi è il tuo mito?"
+/>
+  <Richiesta id= "36"
+  Contenuto = "Chi è il tuo attore preferito?"
+/>
+  <Richiesta id= "37"
+  Contenuto = "Chi è la tua attrice preferita?"
+/>
+  <Richiesta id= "38"
+  Contenuto = "Chi è il tuo cantante preferito?"
+/>
+  <Richiesta id= "39"
+  Contenuto = "Chi è la tua cantante preferita?"
+/>
+  <Richiesta id= "40"
+  Contenuto = "Chi sono i tuoi atleti preferiti?"
+/>
+  <Richiesta id= "41"
+  Contenuto = "Chi sono le persone che vestono meglio?"
+/>
+  <Richiesta id= "42"
+  Contenuto = "Chi sono le persone che vestono peggio?"
+/>
+  <Richiesta id= "43"
+  Contenuto = "Chi è il miglior stilista al mondo?"
+/>
+  <Richiesta id= "44"
+  Contenuto = "Chi è l'ultima persona per cui hai pianto?"
+/>
+  <Richiesta id= "45"
+  Contenuto = "Chi è la celebrità più sexy?"
+/>
+  <Richiesta id= "46"
+  Contenuto = "Chi è la donna più sexy che conosci?"
+/>
+  <Richiesta id= "47"
+  Contenuto = "Chi è la persona più divertente al mondo?"
+/>
+  <Richiesta id= "48"
+  Contenuto = "Chi è la persona più intelligente tra i presenti?"
+/>
+  <Richiesta id= "49"
+  Contenuto = "Chi è la persona più teatrale?"
+/>
+  <Richiesta id= "50"
+  Contenuto = "Chi è la persona più carina tra i presenti?"
+/>
+  <Richiesta id= "51"
+  Contenuto = "Chi è la persona più divertente tra i tuoi amici?"
+/>
+  <Richiesta id= "52"
+  Contenuto = "Chi è la persona più noiosa che conosci?"
+/>
+  <Richiesta id= "53"
+  Contenuto = "Chi è più sexy? Rihanna o Beyoncè?"
+/>
+  <Richiesta id= "54"
+  Contenuto = "Chi è stata la tua prima cotta?"
+/>
+  <Richiesta id= "55"
+  Contenuto = "Chi tra i presenti è la persona più bella?"
+/>
+  <Richiesta id= "56"
+  Contenuto = "Chi tra i presenti ha le orecchie più buffe?"
+/>
+  <Richiesta id= "57"
+  Contenuto = "Chi tra i presenti ha la faccia più buffa?"
+/>
+  <Richiesta id= "58"
+  Contenuto = "Chi tra i presenti è quello più stupido/a?"
+/>
+  <Richiesta id= "59"
+  Contenuto = "Chi tra i presenti diventerà famoso?"
+/>
+  <Richiesta id= "60"
+  Contenuto = "Chi parla troppo a telefono secondo te?"
+/>
+  <Richiesta id= "61"
+  Contenuto = "Chi messaggia troppo secondo te?"
+/>
+  <Richiesta id= "62"
+  Contenuto = "Chi è il tuo ballerino/a preferito?"
+/>
+  <Richiesta id= "63"
+  Contenuto = "Chi vorresti fosse gay?"
+/>
+  <Richiesta id= "64"
+  Contenuto = "Chi è l'uomo più sexy?"
+/>
+  <Richiesta id= "65"
+  Contenuto = "Ci sono dei riti che fai il giorno del tuo compleanno?"
+/>
+  <Richiesta id= "66"
+  Contenuto = "Ci sono cibi che non ti piacciono? Elencali"
+/>
+  <Richiesta id= "67"
+  Contenuto = "Con quale personaggio famoso ti andrebbe di andare a una festa?"
+/>
+  <Richiesta id= "68"
+  Contenuto = "Con chi tra i presenti vorresti uscire?"
+/>
+  <Richiesta id= "69"
+  Contenuto = "Con chi sei stato/a ieri sera?"
+/>
+  <Richiesta id= "70"
+  Contenuto = "Condividi col gruppo un momento romantico che hai trascorso"
+/>
+  <Richiesta id= "71"
+  Contenuto = "Conosci la password di facebook del tuo partner?"
+/>
+  <Richiesta id= "72"
+  Contenuto = "Coinosci il numero del tuo partner?"
+/>
+  <Richiesta id= "73"
+  Contenuto = "Conosci qualche persona strana?"
+/>
+  <Richiesta id= "74"
+  Contenuto = "Conosci altre lingue?"
+/>
+  <Richiesta id= "75"
+  Contenuto = "Cos'hai fatto oggi?"
+/>
+  <Richiesta id= "76"
+  Contenuto = "Cos'hai fatto ieri?"
+/>
+  <Richiesta id= "77"
+  Contenuto = "Cos'hai fatto a Capodanno?"
+/>
+  <Richiesta id= "78"
+  Contenuto = "Cos'hai fatto a San Valentino?"
+/>
+  <Richiesta id= "79"
+  Contenuto = "Cos'hai fatto a Pasquetta?"
+/>
+  <Richiesta id= "80"
+  Contenuto = "Cos'hai fatto a Natale?"
+/>
+  <Richiesta id= "81"
+  Contenuto = "Cos'hai fatto in Estate?"
+/>
+  <Richiesta id= "82"
+  Contenuto = "Cos'hai fatto questo ultimo weekend?"
+/>
+  <Richiesta id= "83"
+  Contenuto = "Cos'hai mangiato ieri a cena?"
+/>
+  <Richiesta id= "84"
+  Contenuto = "Cosa fai quando sei annoiato?"
+/>
+  <Richiesta id= "85"
+  Contenuto = "Cosa faresti se avessi una settimana di vita?"
+/>
+  <Richiesta id= "86"
+  Contenuto = "Cosa faresti se avessi una settimana da Dio?"
+/>
+  <Richiesta id= "87"
+  Contenuto = "Cosa faresti se avessi il potere dell'invisibilità?"
+/>
+  <Richiesta id= "88"
+  Contenuto = "Cosa faresti se avessi i superpoteri?"
+/>
+  <Richiesta id= "89"
+  Contenuto = "Cosa faresti ad un appuntamento se dovessi scorreggiare?"
+/>
+  <Richiesta id= "90"
+  Contenuto = "Cosa guardi in tv?"
+/>
+  <Richiesta id= "91"
+  Contenuto = "Cosa ti piace mangiare?"
+/>
+  <Richiesta id= "92"
+  Contenuto = "Cosa provi per gli animali?"
+/>
+  <Richiesta id= "93"
+  Contenuto = "Cosa mangi di solito?"
+/>
+  <Richiesta id= "94"
+  Contenuto = "Cosa fai durante il tempo libero?"
+/>
+  <Richiesta id= "95"
+  Contenuto = "Cosa provi per aaa?"
+/>
+  <Richiesta id= "96"
+  Contenuto = "Cosa ti piace cucinare?"
+/>
+  <Richiesta id= "97"
+  Contenuto = "Cosa vorresti fare nella vita?"
+/>
+  <Richiesta id= "98"
+  Contenuto = "Credi in un essere superiore?"
+/>
+  <Richiesta id= "99"
+  Contenuto = "Credi nella fede?"
+/>
+  <Richiesta id= "100"
+  Contenuto = "Credi nella fortuna?"
+/>
+  <Richiesta id= "101"
+  Contenuto = "Credi nella giustizia?"
+/>
+  <Richiesta id= "102"
+  Contenuto = "Da 1 a 10 quanto è bella la persona alla tua destra?"
+/>
+  <Richiesta id= "103"
+  Contenuto = "Da 1 a 10 quanto ti definisci intelligente?"
+/>
+  <Richiesta id= "104"
+  Contenuto = "Da 1 a 10 quanto ti stai divertertendo?"
+/>
+  <Richiesta id= "105"
+  Contenuto = "Da 1 a 10 quanto sei affettuoso?"
+/>
+  <Richiesta id= "106"
+  Contenuto = "Da 1 a 10 quanto reputi la tua bravura in cucina?"
+/>
+  <Richiesta id= "107"
+  Contenuto = "Da 1 a 10 quanto ti piace leggere?"
+/>
+  <Richiesta id= "108"
+  Contenuto = "Da 1 a 10 quanto reputi importante l'amicizia con la persona alla tua sinistra?"
+/>
+  <Richiesta id= "109"
+  Contenuto = "Descrivi la vacanza perfetta"
+/>
+  <Richiesta id= "110"
+  Contenuto = "Descrivi il Natale più bello"
+/>
+  <Richiesta id= "111"
+  Contenuto = "Descrivi un tuo talento"
+/>
+  <Richiesta id= "112"
+  Contenuto = "Descriviti in 10 aggettivi"
+/>
+  <Richiesta id= "113"
+  Contenuto = "Descriviti con un aggettivo"
+/>
+  <Richiesta id= "114"
+  Contenuto = "Descrivi la tua giornata tipo"
+/>
+  <Richiesta id= "115"
+  Contenuto = "Descrivi il tuo menù perfetto"
+/>
+  <Richiesta id= "116"
+  Contenuto = "Descrivi i giocattoli della tua infanzia"
+/>
+  <Richiesta id= "117"
+  Contenuto = "Descrivi il tuo gioco preferito"
+/>
+  <Richiesta id= "118"
+  Contenuto = "Descrivi il tuo film preferito"
+/>
+  <Richiesta id= "119"
+  Contenuto = "Dove pensi di essere fra 5 anni?"
+/>
+  <Richiesta id= "120"
+  Contenuto = "Dove pensi di essere fra 10 anni?"
+/>
+  <Richiesta id= "121"
+  Contenuto = "Dove vai a cercare pace e tranquillità?"
+/>
+  <Richiesta id= "122"
+  Contenuto = "Gli horror ti fanno paura?"
+/>
+  <Richiesta id= "123"
+  Contenuto = "Hai ancora i giochi della tua infanzia?"
+/>
+  <Richiesta id= "124"
+  Contenuto = "Hai mai baciato qualcuno?"
+/>
+  <Richiesta id= "125"
+  Contenuto = "Hai mai cercato di conquistare il mondo?"
+/>
+  <Richiesta id= "126"
+  Contenuto = "Hai mai cercato di far litigare qualcuno?"
+/>
+  <Richiesta id= "127"
+  Contenuto = "Hai mai fatto pipì in piscina?"
+/>
+  <Richiesta id= "128"
+  Contenuto = "Hai mai guidato un monster truck?"
+/>
+  <Richiesta id= "129"
+  Contenuto = "Hai mai guidato una moto senza mani?"
+/>
+  <Richiesta id= "130"
+  Contenuto = "Hai mai guidato senza patente?"
+/>
+  <Richiesta id= "131"
+  Contenuto = "Hai mai scorreggiato e incolpato qualcuno?"
+/>
+  <Richiesta id= "132"
+  Contenuto = "Hai mai amato qualcuno?"
+/>
+  <Richiesta id= "133"
+  Contenuto = "Hai mai intasato il wc con i tuoi bisogni?"
+/>
+  <Richiesta id= "134"
+  Contenuto = "Hai mai combattuto per qualcuno?"
+/>
+  <Richiesta id= "135"
+  Contenuto = "Hai mai letto un manga?"
+/>
+  <Richiesta id= "136"
+  Contenuto = "Hai mai mentito in una relazione?"
+/>
+  <Richiesta id= "137"
+  Contenuto = "Hai mai partecipato a un litigio o una rissa?"
+/>
+  <Richiesta id= "138"
+  Contenuto = "Hai mai visto un film più di 10 volte?"
+/>
+  <Richiesta id= "139"
+  Contenuto = "Hai mai giocato ad un gioco più di 10 volte?"
+/>
+  <Richiesta id= "140"
+  Contenuto = "Hai mai fatto qualcosa di veramente scandaloso?"
+/>
+  <Richiesta id= "141"
+  Contenuto = "Hai mai torturato qualche animale?"
+/>
+  <Richiesta id= "142"
+  Contenuto = "Hai mai donato?"
+/>
+  <Richiesta id= "143"
+  Contenuto = "Hai mai detto : califragilisticoespialidoso ?"
+/>
+  <Richiesta id= "144"
+  Contenuto = "Hai mai giocato a League of Legends?"
+/>
+  <Richiesta id= "145"
+  Contenuto = "Hai mai fatto danza?"
+/>
+  <Richiesta id= "146"
+  Contenuto = "Hai paura di qualche animale?"
+/>
+  <Richiesta id= "147"
+  Contenuto = "Hai paura degli insetti?"
+/>
+  <Richiesta id= "148"
+  Contenuto = "Hai paura dell'oceano?"
+/>
+  <Richiesta id= "149"
+  Contenuto = "Preferisci il giorno o la notte?"
+/>
+  <Richiesta id= "150"
+  Contenuto = "Preferisci Dragon Ball, SailorMoon, Tom e Gerry o Hello Kitty?"
+/>
+  <Richiesta id= "151"
+  Contenuto = "Preferisci camminare, usare mezzi pubblici o guidare?"
+/>
+  <Richiesta id= "152"
+  Contenuto = "Preferisci il mare o la montagna?"
+/>
+  <Richiesta id= "153"
+  Contenuto = "Qual è il tuo animale preferito?"
+/>
+  <Richiesta id= "154"
+  Contenuto = "Qual è il tuo bar preferito?"
+/>
+  <Richiesta id= "155"
+  Contenuto = "Qual è il tuo pub preferito?"
+/>
+  <Richiesta id= "156"
+  Contenuto = "Qual è il tuo ristorante preferito?"
+/>
+  <Richiesta id= "157"
+  Contenuto = "Qual è la tua auto preferita?"
+/>
+  <Richiesta id= "158"
+  Contenuto = "Qual è la massima velocità che hai raggiunto?"
+/>
+  <Richiesta id= "159"
+  Contenuto = "Qual è il tuo tesoro più prezioso?"
+/>
+  <Richiesta id= "160"
+  Contenuto = "Qual è il tuo film preferito?"
+/>
+  <Richiesta id= "161"
+  Contenuto = "Qual è la tua canzone preferita?"
+/>
+  <Richiesta id= "162"
+  Contenuto = "Qual è il tuo genere musicale preferito?"
+/>
+  <Richiesta id= "163"
+  Contenuto = "Qual è l'età giusta per fidanzarsi?"
+/>
+  <Richiesta id= "164"
+  Contenuto = "Qual è l'ultimo libro che hai letto?"
+/>
+  <Richiesta id= "165"
+  Contenuto = "Qual è la cosa più cattiva che tu abbia mai fatto?"
+/>
+  <Richiesta id= "166"
+  Contenuto = "Qual è il tuo colore preferito?"
+/>
+  <Richiesta id= "167"
+  Contenuto = "Qual è la tua materia preferita?"
+/>
+  <Richiesta id= "168"
+  Contenuto = "Qual è il tuo mese preferito?"
+/>
+  <Richiesta id= "169"
+  Contenuto = "Qual è la tua squadra di calcio preferita?"
+/>
+  <Richiesta id= "170"
+  Contenuto = "Qual è il giorno della settimana che preferisci?"
+/>
+  <Richiesta id= "171"
+  Contenuto = "Qual è il tuo segno ziodacale?"
+/>
+  <Richiesta id= "172"
+  Contenuto = "Quali sono le tue paure?"
+/>
+  <Richiesta id= "173"
+  Contenuto = "Quali sono le tue preoccupazioni?"
+/>
+  <Richiesta id= "174"
+  Contenuto = "Quali sono le tue giostre preferite?"
+/>
+  <Richiesta id= "175"
+  Contenuto = "Quali sono i tuoi libri preferiti?"
+/>
+  <Richiesta id= "176"
+  Contenuto = "Quali sport ti piacciono?"
+/>
+  <Richiesta id= "177"
+  Contenuto = "Quali sono le tue serie preferite?"
+/>
+  <Richiesta id= "178"
+  Contenuto = "Qual è stato il miglior scherzo che ti è stato fatto?"
+/>
+  <Richiesta id= "179"
+  Contenuto = "Quanto tempo stai su Facebook?"
+/>
+  <Richiesta id= "180"
+  Contenuto = "Quanto tempo stai a telefono?"
+/>
+  <Richiesta id= "181"
+  Contenuto = "Quanto è durata la tua storia più lunga? "
+/>
+  <Richiesta id= "182"
+  Contenuto = "Quand è il tuo compleanno?"
+/>
+  <Richiesta id= "183"
+  Contenuto = "Quand è l'anniversario di matrimonio dei tuoi genitori?"
+/>
+  <Richiesta id= "184"
+  Contenuto = "Quanti figli vorresti avere?"
+/>
+  <Richiesta id= "185"
+  Contenuto = "Quanti nipoti vorresti avere?"
+/>
+  <Richiesta id= "186"
+  Contenuto = "Sai cantare?"
+/>
+  <Richiesta id= "187"
+  Contenuto = "Sai suonare il piano?"
+/>
+  <Richiesta id= "188"
+  Contenuto = "Sei bravo in matematica?"
+/>
+  <Richiesta id= "189"
+  Contenuto = "Sei mai andato in palestra?"
+/>
+  <Richiesta id= "190"
+  Contenuto = "Sei mai stato solo in un cimitero di notte?"
+/>
+  <Richiesta id= "191"
+  Contenuto = "Sei mai andato/a in un cinema hot?"
+/>
+  <Richiesta id= "192"
+  Contenuto = "Sei mai andato/a a vedere una partita di calcio?"
+/>
+  <Richiesta id= "193"
+  Contenuto = "Sei mai andato in discoteca?"
+/>
+  <Richiesta id= "194"
+  Contenuto = "Suoni qualche strumento?"
+/>
+  <Richiesta id= "195"
+  Contenuto = "Ti sei mai operato?"
+/>
+  <Richiesta id= "196"
+  Contenuto = "Ti sei mai travestito a Carnevale?"
+/>
+  <Richiesta id= "197"
+  Contenuto = "Ti piacerebbe andare sulla Luna?"
+/>
+  <Richiesta id= "198"
+  Contenuto = "Ti piacciono i capelli lisci o ricci?"
+/>
+  <Richiesta id= "199"
+  Contenuto = "Ti piacciono gli occhi scuri o chiari?"
+/>
+  <Richiesta id= "200"
+  Contenuto = "Windows Phone, Android o Iphone?"
+/>
+
+</Verita>

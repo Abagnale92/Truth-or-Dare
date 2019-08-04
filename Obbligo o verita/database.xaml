@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Obbligo_o_verita.database"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded">
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene il nome dell'applicazione e il titolo della pagina-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - inserire ulteriore contenuto qui-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="bg" HorizontalAlignment="Left" Height="800" VerticalAlignment="Top" Width="480" Source="/Img/background3.png" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="visualizza" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="101,262,0,0" TextWrapping="Wrap" Text="visualizza database" VerticalAlignment="Top" Height="109" Width="277" FontFamily="the_quiet_scream.ttf#the quiet scream" Foreground="Black" FontSize="36" TextAlignment="Center" Tap="visualizza_Tap"/>
+            <TextBlock x:Name="inserisci" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="101,479,0,0" TextWrapping="Wrap" Text="inserisci obbligo o verità" VerticalAlignment="Top" Height="109" Width="277" FontFamily="the_quiet_scream.ttf#the quiet scream" Foreground="Black" FontSize="36" TextAlignment="Center"/>
+            <Button x:Name="normal" Grid.ColumnSpan="2" FontFamily="the_quiet_scream.ttf#The Quiet Scream" Content="normal" HorizontalAlignment="Center" Margin="125,209,132,0" VerticalAlignment="Top" Foreground="#FF007A59" BorderBrush="{x:Null}" ClickMode="Press" Background="{x:Null}" FontSize="48" FontWeight="Bold" Click="buttonClick" Visibility="Collapsed"/>
+            <Button x:Name="boilent" Grid.ColumnSpan="2" FontFamily="the_quiet_scream.ttf#The Quiet Scream" Content="boilent" HorizontalAlignment="Center" Margin="125,475,128,212" VerticalAlignment="Center" Foreground="Red" BorderBrush="{x:Null}" ClickMode="Press" Background="{x:Null}" FontSize="48" FontWeight="Bold" Click="buttonClick" Visibility="Collapsed"/>
+            <TextBlock x:Name="plus" FontFamily="Segoe UI" HorizontalAlignment="Right" Margin="0,524.419,130.132,199.581" TextWrapping="Wrap" VerticalAlignment="Center" Height="76" Width="44" Foreground="Red" FontSize="48" FontWeight="Bold" Grid.Column="1" Text="+" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Visibility="Collapsed">
+                <TextBlock.RenderTransform>
+                    <CompositeTransform Rotation="-29.408"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <TextBlock x:Name="maggior" FontFamily="the_quiet_scream.ttf#The Quiet Scream" HorizontalAlignment="Center" Margin="271.52,0,25.48,212.378" TextWrapping="Wrap" Text="18" VerticalAlignment="Bottom" Height="76" Width="183" Foreground="Red" FontSize="48" FontWeight="Bold" Grid.Column="1" TextAlignment="Center" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Visibility="Collapsed">
+                <TextBlock.RenderTransform>
+                    <CompositeTransform Rotation="-23.679"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Button x:Name="hot" FontFamily="the_quiet_scream.ttf#The Quiet Scream" Content="hot" HorizontalAlignment="Center" Margin="166,359,175,328" VerticalAlignment="Center" Foreground="#FFFF3939" BorderBrush="{x:Null}" ClickMode="Press" Background="{x:Null}" FontSize="48" FontWeight="Bold" Click="buttonClick" Grid.ColumnSpan="2" Visibility="Collapsed"/>
+            <TextBlock x:Name="obbligo" FontFamily="the_quiet_scream.ttf#The quiet scream" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="101,253,80,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFFF0068" FontSize="72" Height="106" Width="299" Text="obbligo" TextAlignment="Center" FontWeight="Bold" Tap="thruthOrDare" Visibility="Collapsed"/>
+            <TextBlock x:Name="verita" FontFamily="the_quiet_scream.ttf#The quiet scream" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="101,472,80,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF0080FF" FontSize="72" Height="106" Width="299" Text="verità" TextAlignment="Center" FontWeight="Bold" Tap="thruthOrDare" Visibility="Collapsed"/>
+            <ListBox x:Name="lista" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="766" Margin="0,10,0,0" VerticalAlignment="Top" Width="480" Visibility="Collapsed" Foreground="Black" FontFamily="Quicksand-Bold.otf#Quicksand" FontSize="20" FontWeight="Bold"/>
+            <TextBox x:Name="testoIn" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="72" Margin="14,376,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="456" Visibility="Collapsed" LostFocus="testoIn_TextChanged"/>
+            <TextBlock x:Name="coming" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="-5.084,498.182,0,0" TextWrapping="Wrap" Text="coming soon" VerticalAlignment="Top" Height="50.636" Width="246.168" FontFamily="the_quiet_scream.ttf#the quiet scream" Foreground="Red" FontSize="36" TextAlignment="Center" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+                <TextBlock.RenderTransform>
+                    <CompositeTransform Rotation="-39.666"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+
+        </Grid>
+    </Grid>
+
+    <!--LayoutRoot è la griglia radice in cui viene inserito tutto il contenuto della pagina-->
+
+</phone:PhoneApplicationPage>

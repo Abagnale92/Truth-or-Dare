@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Verita>
+  <Richiesta id= "1"
+Contenuto = "Who do you turn to for advice ?"
+/>
+  <Richiesta id= "2"
+  Contenuto = "Who inspires you?"
+/>
+  <Richiesta id= "3"
+  Contenuto = "At what age did you stop crying?"
+/>
+  <Richiesta id= "4"
+  Contenuto = "At what age did you give your first kiss?"
+/>
+  <Richiesta id= "5"
+  Contenuto = "At what age did you get your first crush ?"
+/>
+  <Richiesta id= "6"
+  Contenuto = "At what age did you start cooking?"
+/>
+  <Richiesta id= "7"
+  Contenuto = "At what age did you stop bathing with your sister or your brother?"
+/>
+  <Richiesta id= "8"
+  Contenuto = "What games you're better than / a ?"
+/>
+  <Richiesta id= "9"
+  Contenuto = "Coffee or tea ?"
+/>
+  <Richiesta id= "10"
+  Contenuto = "Would you change sex if you could?"
+/>
+  <Richiesta id= "11"
+  Contenuto = "What hair products do you use?"
+/>
+  <Richiesta id= "12"
+  Contenuto = "What excuses you use to attach to the phone?"
+/>
+  <Richiesta id= "13"
+  Contenuto = "What excuses you use to stop to chat ?"
+/>
+  <Richiesta id= "14"
+  Contenuto = "What excuses use with your parents to give you money ?"
+/>
+  <Richiesta id= "15"
+  Contenuto = "What excuses use with your parents to go out?"
+/>
+  <Richiesta id= "16"
+  Contenuto = "Who invent excuses when you were late ?"
+/>
+  <Richiesta id= "17"
+  Contenuto = "What kind of relationship do you prefer : unbridled and passionate or calm and serene ?"
+/>
+  <Richiesta id= "18"
+  Contenuto = "Who was your best friend as a child?"
+/>
+  <Richiesta id= "19"
+  Contenuto = "Who was your best friend as a child ?"
+/>
+  <Richiesta id= "20"
+  Contenuto = "Who are currently your best friends ?"
+/>
+  <Richiesta id= "21"
+  Contenuto = "Those who talk too much phone for you?"
+/>
+  <Richiesta id= "22"
+  Contenuto = "Who is your myth ?"
+/>
+  <Richiesta id= "23"
+  Contenuto = "Who is your favorite actor?"
+/>
+  <Richiesta id= "24"
+  Contenuto = "Who is your favorite actress ?"
+/>
+  <Richiesta id= "25"
+  Contenuto = "Who is your favorite singer ?"
+/>
+  <Richiesta id= "26"
+  Contenuto = "Who is your favorite singer ?"
+/>
+  <Richiesta id= "27"
+  Contenuto = "Who are your favorite athletes ?"
+/>
+  <Richiesta id= "28"
+  Contenuto = "Who are the people who dress better?"
+/>
+  <Richiesta id= "29"
+  Contenuto = "Who are the people who dress worse?"
+/>
+  <Richiesta id= "30"
+  Contenuto = "Who is the best designer in the world?"
+/>
+  <Richiesta id= "31"
+  Contenuto = "Who is the last person you cried?"
+/>
+  <Richiesta id= "32"
+  Contenuto = "Who is the sexiest celebrity ?"
+/>
+  <Richiesta id= "33"
+  Contenuto = "Who is the sexiest woman you know ?"
+/>
+  <Richiesta id= "34"
+  Contenuto = "Who is the funniest person in the world?"
+/>
+  <Richiesta id= "35"
+  Contenuto = "Who is the smartest person in the present ?"
+/>
+  <Richiesta id= "36"
+  Contenuto = "Who is the best person play?"
+/>
+  <Richiesta id= "37"
+  Contenuto = "Who among those present will become famous ?"
+/>
+  <Richiesta id= "38"
+  Contenuto = "Are there any rituals that you do on the day of your birthday ?"
+/>
+  <Richiesta id= "39"
+  Contenuto = "Who among those present would you like to go out?"
+/>
+  <Richiesta id= "40"
+  Contenuto = "Do you know the facebook password of your partner ?"
+/>
+  <Richiesta id= "41"
+  Contenuto = "Do you know other languages ???"
+/>
+  <Richiesta id= "42"
+  Contenuto = "What did you do this last weekend?"
+/>
+  <Richiesta id= "43"
+  Contenuto = "What would you do if you had the power of invisibility ?"
+/>
+  <Richiesta id= "44"
+  Contenuto = "What would you do if you had super powers ?"
+/>
+  <Richiesta id= "45"
+  Contenuto = "What would you do if I fart on a date ?"
+/>
+  <Richiesta id= "46"
+  Contenuto = "What are you watching on TV ?"
+/>
+  <Richiesta id= "47"
+  Contenuto = "What do you like to eat?"
+/>
+  <Richiesta id= "48"
+  Contenuto = "What do you feel about animals?"
+/>
+  <Richiesta id= "49"
+  Contenuto = "What do you usually eat ?"
+/>
+  <Richiesta id= "50"
+  Contenuto = "What do you do during your free time ?"
+/>
+  <Richiesta id= "51"
+  Contenuto = "What would you like to do in life ?"
+/>
+  <Richiesta id= "52"
+  Contenuto = "Do you believe in a higher being ?"
+/>
+  <Richiesta id= "53"
+  Contenuto = "Do you believe in faith?"
+/>
+  <Richiesta id= "54"
+  Contenuto = "Do you believe in luck?"
+/>
+  <Richiesta id= "55"
+  Contenuto = "Do you believe in justice?"
+/>
+  <Richiesta id= "56"
+  Contenuto = "From 1 to 10 how beautiful is the person to your right ?"
+/>
+  <Richiesta id= "57"
+  Contenuto = "From 1 to 10 how do you define smart?"
+/>
+  <Richiesta id= "58"
+  Contenuto = "From 1 to 10 how much are you having fun ?"
+/>
+  <Richiesta id= "59"
+  Contenuto = "From 1 to 10 how much you're loving ?"
+/>
+  <Richiesta id= "60"
+  Contenuto = "From 1 to 10 as it considers your skills in the kitchen?"
+/>
+  <Richiesta id= "61"
+  Contenuto = "From 1 to 10 how much do you enjoy reading ?"
+/>
+  <Richiesta id= "62"
+  Contenuto = "From 1 to 10 how important it considers the friendship with the person to your left ?"
+/>
+  <Richiesta id= "63"
+  Contenuto = "Describe the perfect holiday"
+/>
+  <Richiesta id= "64"
+  Contenuto = "Describe the most beautiful Christmas"
+/>
+  <Richiesta id= "65"
+  Contenuto = "Describe your talent"
+/>
+  <Richiesta id= "66"
+  Contenuto = "Describe yourself in 10 adjectives"
+/>
+  <Richiesta id= "67"
+  Contenuto = "Describe yourself with an adjective"
+/>
+  <Richiesta id= "68"
+  Contenuto = "Describe your typical day"
+/>
+  <Richiesta id= "69"
+  Contenuto = "Describe your perfect menu"
+/>
+  <Richiesta id= "70"
+  Contenuto = "Describe the toys of your childhood"
+/>
+  <Richiesta id= "71"
+  Contenuto = "Describe your favorite game"
+/>
+  <Richiesta id= "72"
+  Contenuto = "Describe your favorite movie"
+/>
+  <Richiesta id= "73"
+  Contenuto = "Where do you think you are in 10 years?"
+/>
+  <Richiesta id= "74"
+  Contenuto = "The Horror Are you afraid ?"
+/>
+  <Richiesta id= "75"
+  Contenuto = "You still have the games of your childhood?"
+/>
+  <Richiesta id= "76"
+  Contenuto = "Have you ever kissed someone ?"
+/>
+  <Richiesta id= "77"
+  Contenuto = "Have you ever tried to conquer the world?"
+/>
+  <Richiesta id= "78"
+  Contenuto = "Have you ever tried to fight someone ?"
+/>
+  <Richiesta id= "79"
+  Contenuto = "Have you ever peed in the pool ?"
+/>
+  <Richiesta id= "80"
+  Contenuto = "Have you ever driven a monster truck ?"
+/>
+  <Richiesta id= "81"
+  Contenuto = "Have you ever ridden a bike with no hands ?"
+/>
+  <Richiesta id= "82"
+  Contenuto = "Have you ever driven without a license ?"
+/>
+  <Richiesta id= "83"
+  Contenuto = "Have you ever farted and blamed someone ?"
+/>
+  <Richiesta id= "84"
+  Contenuto = "Have you ever loved someone ?"
+/>
+  <Richiesta id= "85"
+  Contenuto = "Have you ever clogged the toilet with your needs?"
+/>
+  <Richiesta id= "86"
+  Contenuto = "Have you ever fought for someone ?"
+/>
+  <Richiesta id= "87"
+  Contenuto = "Have you ever read a manga ?"
+/>
+  <Richiesta id= "88"
+  Contenuto = "Have you ever seen a movie more than 10 times ?"
+/>
+  <Richiesta id= "89"
+  Contenuto = "Have you ever played a game more than 10 times ?"
+/>
+  <Richiesta id= "90"
+  Contenuto = "Have you ever done something really outrageous?"
+/>
+  <Richiesta id= "91"
+  Contenuto = "Have you ever tortured some animal ?"
+/>
+  <Richiesta id= "92"
+  Contenuto = "Have you ever won ?"
+/>
+  <Richiesta id= "93"
+  Contenuto = "Have you ever said : califragilisticoespialidoso ?"
+/>
+  <Richiesta id= "94"
+  Contenuto = "Have you ever played League of Legends ?"
+/>
+  <Richiesta id= "95"
+  Contenuto = "Have you ever had dance ?"
+/>
+  <Richiesta id= "96"
+  Contenuto = "Are you afraid of any animal?"
+/>
+  <Richiesta id= "97"
+  Contenuto = "Are you afraid of insects ?"
+/>
+  <Richiesta id= "98"
+  Contenuto = "Are you afraid of the ocean?"
+/>
+  <Richiesta id= "99"
+  Contenuto = "Do you prefer day or night ?"
+/>
+  <Richiesta id= "100"
+  Contenuto = "Which one do you prefer Dragon Ball , SailorMoon , Tom and Gerry or Hello Kitty?"
+/>
+  <Richiesta id= "101"
+  Contenuto = "Do you prefer to walk , use public transport or drive?"
+/>
+  <Richiesta id= "102"
+  Contenuto = "Do you prefer the beach or the mountains?"
+/>
+  <Richiesta id= "103"
+  Contenuto = "What is your favorite animal?"
+/>
+  <Richiesta id= "104"
+  Contenuto = "What is your favorite bar ?"
+/>
+  <Richiesta id= "105"
+  Contenuto = "What is your favorite pub ?"
+/>
+  <Richiesta id= "106"
+  Contenuto = "What is your favorite restaurant?"
+/>
+  <Richiesta id= "107"
+  Contenuto = "What is your favorite car ?"
+/>
+  <Richiesta id= "108"
+  Contenuto = "What is the maximum speed you have achieved?"
+/>
+  <Richiesta id= "109"
+  Contenuto = "What is your most precious treasure ?"
+/>
+  <Richiesta id= "110"
+  Contenuto = "What is your favorite movie?"
+/>
+  <Richiesta id= "111"
+  Contenuto = "What is your favorite song ?"
+/>
+  <Richiesta id= "112"
+  Contenuto = "What is your favorite kind of music ?"
+/>
+  <Richiesta id= "113"
+  Contenuto = "What is the right age to get engaged ?"
+/>
+  <Richiesta id= "114"
+  Contenuto = "What was the last book you read ?"
+/>
+  <Richiesta id= "115"
+  Contenuto = "What is the worst thing you've ever done?"
+/>
+  <Richiesta id= "116"
+  Contenuto = "What is your favorite color?"
+/>
+  <Richiesta id= "117"
+  Contenuto = "What is your favorite subject ?"
+/>
+  <Richiesta id= "118"
+  Contenuto = "What is your favorite month ?"
+/>
+  <Richiesta id= "119"
+  Contenuto = "What is your favorite football team ?"
+/>
+  <Richiesta id= "120"
+  Contenuto = "What is the day of the week do you prefer?"
+/>
+  <Richiesta id= "121"
+  Contenuto = "What is your sign ziodacale ?"
+/>
+  <Richiesta id= "122"
+  Contenuto = "What are your fears?"
+/>
+  <Richiesta id= "123"
+  Contenuto = "What are your concerns?"
+/>
+  <Richiesta id= "124"
+  Contenuto = "What are your favorite rides ?"
+/>
+  <Richiesta id= "125"
+  Contenuto = "What are your favorite books ?"
+/>
+  <Richiesta id= "126"
+  Contenuto = "What sports do you like ?"
+/>
+  <Richiesta id= "127"
+  Contenuto = "What are your favorite series ?"
+/>
+  <Richiesta id= "128"
+  Contenuto = "What was the best prank that was done to you ?"
+/>
+  <Richiesta id= "129"
+  Contenuto = "How long are you on Facebook ?"
+/>
+  <Richiesta id= "130"
+  Contenuto = "How long are you on the phone?"
+/>
+  <Richiesta id= "131"
+  Contenuto = "How long was your longest history ?"
+/>
+  <Richiesta id= "132"
+  Contenuto = "Quand is your birthday ?"
+/>
+  <Richiesta id= "133"
+  Contenuto = "Quand is the wedding anniversary of your parents?"
+/>
+  <Richiesta id= "134"
+  Contenuto = "How many children would you have?"
+/>
+  <Richiesta id= "135"
+  Contenuto = "How many grandchildren do you fantasize about ?"
+/>
+  <Richiesta id= "136"
+  Contenuto = "Can you sing ?"
+/>
+  <Richiesta id= "137"
+  Contenuto = "Can you play the piano?"
+/>
+  <Richiesta id= "138"
+  Contenuto = "Are you good at math?"
+/>
+  <Richiesta id= "139"
+  Contenuto = "Have you ever gone to the gym?"
+/>
+  <Richiesta id= "140"
+  Contenuto = "Have you ever been alone in a cemetery at night?"
+/>
+  <Richiesta id= "141"
+  Contenuto = "Have you ever gone / in a hot movie ?"
+/>
+  <Richiesta id= "142"
+  Contenuto = "Have you ever gone / to see a football match ?"
+/>
+  <Richiesta id= "143"
+  Contenuto = "Have you ever gone clubbing ?"
+/>
+  <Richiesta id= "144"
+  Contenuto = "Do you play any instruments?"
+/>
+  <Richiesta id= "145"
+  Contenuto = "Have you ever worked ?"
+/>
+  <Richiesta id= "146"
+  Contenuto = "Have you ever dressed up for carnival ?"
+/>
+  <Richiesta id= "147"
+  Contenuto = "Would you like to go to the Moon ?"
+/>
+  <Richiesta id= "148"
+  Contenuto = "Do you like your hair straight or curly ?"
+/>
+  <Richiesta id= "149"
+  Contenuto = "Do you like my eyes are dark or light ?"
+/>
+  <Richiesta id= "150"
+  Contenuto = "Windows Phone , Android or Iphone?"
+/>
+
+</Verita>

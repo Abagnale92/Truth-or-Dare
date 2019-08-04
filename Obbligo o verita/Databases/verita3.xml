@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Verita>
+  <Richiesta id= "1"
+Contenuto = "C'è  qualcosa che vorresti provare?"
+/>
+  <Richiesta id= "2"
+  Contenuto = "C'è qualcosa che non hai mai fatto e vorresti provare?"
+/>
+  <Richiesta id= "3"
+  Contenuto = "C'è qualcosa che avresti preferito non farla?"
+/>
+  <Richiesta id= "4"
+  Contenuto = "Che oggetto prenderesti dalla cucina per rendere le cose più piccanti?"
+/>
+  <Richiesta id= "5"
+  Contenuto = "Che oggetto prenderesti dal bagno per rendere le cose più piccanti?"
+/>
+  <Richiesta id= "6"
+  Contenuto = "Con o senza preservativo?"
+/>
+  <Richiesta id= "7"
+  Contenuto = "Con o senza anticoncezionale?"
+/>
+  <Richiesta id= "8"
+  Contenuto = "Condividi le tue esperienze sessuali"
+/>
+  <Richiesta id= "9"
+  Contenuto = "Cosa pensi degli scambisti?"
+/>
+  <Richiesta id= "10"
+  Contenuto = "Cosa pensi del feticismo?"
+/>
+  <Richiesta id= "11"
+  Contenuto = "Cosa pensi delle perversioni dei tuoi amici/delle tue amiche?"
+/>
+  <Richiesta id= "12"
+  Contenuto = "Cosa ne pensi del sesso anale?"
+/>
+  <Richiesta id= "13"
+  Contenuto = "Cosa ne pensi del sesso orale?"
+/>
+  <Richiesta id= "14"
+  Contenuto = "Cosa ne pensi del sesso di gruppo?"
+/>
+  <Richiesta id= "15"
+  Contenuto = "Chi è la persona più eccitata in questo momento?"
+/>
+  <Richiesta id= "16"
+  Contenuto = "Chi è la persona meno eccitata in questo momento?"
+/>
+  <Richiesta id= "17"
+  Contenuto = "Chi è la persona con cui non vorresti avere un rapporto in questo momento?"
+/>
+  <Richiesta id= "18"
+  Contenuto = "Chi è la persona con cui vorresti avere un rapporto in questo momento?"
+/>
+  <Richiesta id= "19"
+  Contenuto = "Com'è aaa a letto secondo te?"
+/>
+  <Richiesta id= "20"
+  Contenuto = "Com'è stata la tua notte più eccitante?"
+/>
+  <Richiesta id= "21"
+  Contenuto = "Com'è stata la tua notte più romantica?"
+/>
+  <Richiesta id= "22"
+  Contenuto = "Condividi le tue esperienze sessuali"
+/>
+  <Richiesta id= "23"
+  Contenuto = "Condividi una tua esperienza sessuale"
+/>
+  <Richiesta id= "24"
+  Contenuto = "Cosa vorresti che ti facesse aaa?"
+/>
+  <Richiesta id= "25"
+  Contenuto = "Cosa vorresti che ti facesse la persona che è seduta alla tua destra?"
+/>
+  <Richiesta id= "26"
+  Contenuto = "Cosa vorresti che ti facesse il tuo/la tua partner?"
+/>
+  <Richiesta id= "27"
+  Contenuto = "Chi pensi che sia la persona più eccitata in questo momento?"
+/>
+  <Richiesta id= "28"
+  Contenuto = "Descrivi la tua prima volta"
+/>
+  <Richiesta id= "29"
+  Contenuto = "Descrivi l'ultima volta che hai fatto sesso"
+/>
+  <Richiesta id= "30"
+  Contenuto = "Descrivi il tuo primo orgasmo"
+/>
+  <Richiesta id= "31"
+  Contenuto = "Descrivi il luogo ideale per farlo"
+/>
+  <Richiesta id= "32"
+  Contenuto = "Descrivi in modo erotico il tuo/la tua partner ideale"
+/>
+  <Richiesta id= "33"
+  Contenuto = "Descrivi l'organo genitale del tuo/della tua partner"
+/>
+  <Richiesta id= "34"
+  Contenuto = "Drescrivi in modo erotico il corpo del tuo/tua partner"
+/>
+  <Richiesta id= "35"
+  Contenuto = "Descrivi un incidente sessuale"
+/>
+  <Richiesta id= "36"
+  Contenuto = "Descrivi un tuo sogno erotico"
+/>
+  <Richiesta id= "37"
+  Contenuto = "Descrivi una scena di sesso che vorresti fare con un personaggio famoso"
+/>
+  <Richiesta id= "38"
+  Contenuto = "Dici le dimensioni di un pene ideale"
+/>
+  <Richiesta id= "39"
+  Contenuto = "Dici qualcosa che vorresti dire mentre fai sesso"
+/>
+  <Richiesta id= "40"
+  Contenuto = "Dopo l'eiaculazione ricominci subito o aspetti?"
+/>
+  <Richiesta id= "41"
+  Contenuto = "Dopo aver finito cosa fai?"
+/>
+  <Richiesta id= "42"
+  Contenuto = "Dove ti piace toccare?"
+/>
+  <Richiesta id= "43"
+  Contenuto = "Dove ti piace essere toccato/a?"
+/>
+  <Richiesta id= "44"
+  Contenuto = "Da 1 a 10 quanto ti piace il sesso orale?"
+/>
+  <Richiesta id= "45"
+  Contenuto = "Da 1 a 10 quanto ti piace il sesso anale?"
+/>
+  <Richiesta id= "46"
+  Contenuto = "Da 1 a 10 datti un voto come amante"
+/>
+  <Richiesta id= "47"
+  Contenuto = "Da 1 a 10 dai un voto alle perversioni del tuo/della tua partner"
+/>
+  <Richiesta id= "48"
+  Contenuto = "Da 1 a 10 vota la perversione più fantasiosa"
+/>
+  <Richiesta id= "49"
+  Contenuto = "Elenca le tue perversioni"
+/>
+  <Richiesta id= "50"
+  Contenuto = "Elenca le perversioni che vorresti fare con aaa"
+/>
+  <Richiesta id= "51"
+  Contenuto = "Elenca le persone con cui vorresti farlo"
+/>
+  <Richiesta id= "52"
+  Contenuto = "Elenca qualche posizione che ti andrebbe di fare"
+/>
+  <Richiesta id= "53"
+  Contenuto = "Elenca le tue posizioni preferite"
+/>
+  <Richiesta id= "54"
+  Contenuto = "Elenca i luoghi in cui vorresti farlo"
+/>
+  <Richiesta id= "55"
+  Contenuto = "Elenca le cose più sporche che hai fatto"
+/>
+  <Richiesta id= "56"
+  Contenuto = "Elenca tutte le persone con cui l'hai fatto"
+/>
+  <Richiesta id= "57"
+  Contenuto = "Elenca tutti i gadgets che utilizzi"
+/>
+  <Richiesta id= "58"
+  Contenuto = "Elenca tutti i film porno che hai visto"
+/>
+  <Richiesta id= "59"
+  Contenuto = "Hai mai fatto giochi particolari nel sesso anale?"
+/>
+  <Richiesta id= "60"
+  Contenuto = "Hai mai fatto giochi particolari nel sesso orale?"
+/>
+  <Richiesta id= "61"
+  Contenuto = "Hai mai fatto sesso anale?"
+/>
+  <Richiesta id= "62"
+  Contenuto = "Hai mai fatto sesso orale?"
+/>
+  <Richiesta id= "63"
+  Contenuto = "Hai mai fatto uno spogliarello?"
+/>
+  <Richiesta id= "64"
+  Contenuto = "Hai mai fatto un pompino?"
+/>
+  <Richiesta id= "65"
+  Contenuto = "Hai mai fatto eiaculare una persona?"
+/>
+  <Richiesta id= "66"
+  Contenuto = "Hai mai leccato i genitali?"
+/>
+  <Richiesta id= "67"
+  Contenuto = "Hai mai leccato l'ano di qualcuno/a?"
+/>
+  <Richiesta id= "68"
+  Contenuto = "Hai mai leccato la vagina?"
+/>
+  <Richiesta id= "69"
+  Contenuto = "Hai mai leccato il pene?"
+/>
+  <Richiesta id= "70"
+  Contenuto = "Hai mai partecipato ad un'orgia?"
+/>
+  <Richiesta id= "71"
+  Contenuto = "Hai mai fatto sesso a 3?"
+/>
+  <Richiesta id= "72"
+  Contenuto = "Hai mai spiato i tuoi che facevano sesso?"
+/>
+  <Richiesta id= "73"
+  Contenuto = "Hai mai utilizzato le posate?"
+/>
+  <Richiesta id= "74"
+  Contenuto = "Hai mai usato attrezzi da lavoro?"
+/>
+  <Richiesta id= "75"
+  Contenuto = "Hai mai ingoiato lo sperma di qualcuno?"
+/>
+  <Richiesta id= "76"
+  Contenuto = "Hai mai usato l'anello vibrante?"
+/>
+  <Richiesta id= "77"
+  Contenuto = "Hai mai usato la panna?"
+/>
+  <Richiesta id= "78"
+  Contenuto = "Hai mai scorreggiato durante il sesso?"
+/>
+  <Richiesta id= "79"
+  Contenuto = "Hai mai fatto sesso al cinema?"
+/>
+  <Richiesta id= "80"
+  Contenuto = "Hai mai fatto sesso nella vasca da bagno?"
+/>
+  <Richiesta id= "81"
+  Contenuto = "Hai mai fatto sesso sul prato?"
+/>
+  <Richiesta id= "82"
+  Contenuto = "Hai mai fatto sesso in un negozio?"
+/>
+  <Richiesta id= "83"
+  Contenuto = "Hai mai avuto un orgasmo indimenticabile?"
+/>
+  <Richiesta id= "84"
+  Contenuto = "Hai mai usato uno strumento musicale?"
+/>
+  <Richiesta id= "85"
+  Contenuto = "Hai mai fatto sesso in teatro?"
+/>
+  <Richiesta id= "86"
+  Contenuto = "Hai mai avuto un incidente sessuale?"
+/>
+  <Richiesta id= "87"
+  Contenuto = "Hai mai fatto un incesto?"
+/>
+  <Richiesta id= "88"
+  Contenuto = "Hai mai eiaculato nel sonno?"
+/>
+  <Richiesta id= "89"
+  Contenuto = "Hai mai fatto sesso da ubriaco/a?"
+/>
+  <Richiesta id= "90"
+  Contenuto = "Qual è la cosa più sporca che hai fatto a letto?"
+/>
+  <Richiesta id= "91"
+  Contenuto = "Qual è la cosa più pazza che hai fatto a letto?"
+/>
+  <Richiesta id= "92"
+  Contenuto = "Qual è la cosa che ti eccita di più durante il sesso?"
+/>
+  <Richiesta id= "93"
+  Contenuto = "Qual è il tuo segreto sessuale?"
+/>
+  <Richiesta id= "94"
+  Contenuto = "Qual è il tuo punto G ?"
+/>
+  <Richiesta id= "95"
+  Contenuto = "Quando è stata l'ultima volta che hai fatto sesso fuori casa?"
+/>
+  <Richiesta id= "96"
+  Contenuto = "Quando è stata l'ultima volta che hai fatto sesso anale?"
+/>
+  <Richiesta id= "97"
+  Contenuto = "Quando è stata l'ultima volta che hai fatto sesso orale?"
+/>
+  <Richiesta id= "98"
+  Contenuto = "Quante volte ti masturbi al giorno?"
+/>
+  <Richiesta id= "99"
+  Contenuto = "Quante volte ti sei masturbato in una settimana?"
+/>
+  <Richiesta id= "100"
+  Contenuto = "Quante volte pensi di porterlo fare in una notte?"
+/>
+  <Richiesta id= "101"
+  Contenuto = "Quante volte hai eiaculato insieme al tuo/alla tua partner?"
+/>
+  <Richiesta id= "102"
+  Contenuto = "Quante volte hai fatto sesso anale?"
+/>
+  <Richiesta id= "103"
+  Contenuto = "Quante volte hai fatto sesso orale?"
+/>
+  <Richiesta id= "104"
+  Contenuto = "Quante volte ti è capitato di farlo in 3?"
+/>
+  <Richiesta id= "105"
+  Contenuto = "Quanto tempo duri?"
+/>
+  <Richiesta id= "106"
+  Contenuto = "Pratichi sesso orale?"
+/>
+  <Richiesta id= "107"
+  Contenuto = "Pratichi sesso anale?"
+/>
+  <Richiesta id= "108"
+  Contenuto = "Preferisci il sado o il maso?"
+/>
+  <Richiesta id= "109"
+  Contenuto = "Preferisci i peni grandi o piccoli?"
+/>
+  <Richiesta id= "110"
+  Contenuto = "Preferisci buchi stretti o larghi?"
+/>
+  <Richiesta id= "111"
+  Contenuto = "Preferisci seno grande o piccolo?"
+/>
+  <Richiesta id= "112"
+  Contenuto = "Preferisci un culo grande o piccolo?"
+/>
+  <Richiesta id= "113"
+  Contenuto = "Se ti offrissero dei soldi cosa saresti disposto/a a fare?"
+/>
+  <Richiesta id= "114"
+  Contenuto = "Se dovessi scegliere una posizione da fare per tutta la notte quale sceglieresti?"
+/>
+  <Richiesta id= "115"
+  Contenuto = "Se dovessi scegliere il posto dove farlo, dove ti andrebbe di farlo?"
+/>
+  <Richiesta id= "116"
+  Contenuto = "Se dovessi farlo con un polito con chi lo faresti?"
+/>
+  <Richiesta id= "117"
+  Contenuto = "Se uno/a sconosciuto/a volesse fare sesso con te, tu cosa faresti?"
+/>
+  <Richiesta id= "118"
+  Contenuto = "Sei mai stato/a scoperto/a mentre ti masturbavi?"
+/>
+  <Richiesta id= "119"
+  Contenuto = "Ti sei mai masturbato/a su un hentai?"
+/>
+  <Richiesta id= "120"
+  Contenuto = "Ti sei mai masturbato/a sulla tua/ sul tuo vicino/a di casa?"
+/>
+  <Richiesta id= "121"
+  Contenuto = "Ti sei mai cosparso di nutella?"
+/>
+  <Richiesta id= "122"
+  Contenuto = "Ti sei mai masturbato al cinema?"
+/>
+  <Richiesta id= "123"
+  Contenuto = "Ti piace dominare o essere dominato/a?"
+/>
+  <Richiesta id= "124"
+  Contenuto = "Ti piace il sesso lento o violento?"
+/>
+  <Richiesta id= "125"
+  Contenuto = "Ti piace provocare o essere provocato/a?"
+/>
+  <Richiesta id= "126"
+  Contenuto = "Ti piace farlo con persone mature?"
+/>
+  <Richiesta id= "127"
+  Contenuto = "Ti piace farlo con persone più piccole di te?"
+/>
+  <Richiesta id= "128"
+  Contenuto = "Ti piacciono le Milf?"
+/>
+  <Richiesta id= "129"
+  Contenuto = "Ti piacciono le orgie?"
+/>
+  <Richiesta id= "130"
+  Contenuto = "Ti piacciono le gang-bang?"
+/>
+</Verita> 

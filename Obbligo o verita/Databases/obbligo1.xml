@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Obbligo>
+  <Richiesta id= "1"
+Contenuto = "30 secondi : elenca il nome di tutti gli animali che conosci"
+/>
+<Richiesta id= "2"
+Contenuto = "30 secondi : elenca velocemente i nomi di cantanti"
+/>
+<Richiesta id= "3"
+Contenuto = "30 secondi : elenca velocemente i nomi di attori"
+/>
+<Richiesta id= "4"
+Contenuto = "10 secondi : elenca il nome di tutti i presenti  "
+/>
+<Richiesta id= "5"
+Contenuto = "Abbaia come un cane"
+/>
+<Richiesta id= "6"
+Contenuto = "Abbaia come un cucciolo"
+/>
+<Richiesta id= "7"
+Contenuto = "Abbraccia aaa"
+/>
+<Richiesta id= "8"
+Contenuto = "Annusa tutti e decidi chi ha il profumo peggiore"
+/>
+<Richiesta id= "9"
+Contenuto = "Annusa i vestiti di aaa"
+/>
+<Richiesta id= "10"
+Contenuto = "Annusa le tue ascelle"
+/>
+<Richiesta id= "11"
+Contenuto = "Annusa le ascelle di aaa"
+/>
+<Richiesta id= "12"
+Contenuto = "Annusa i capelli di aaa"
+/>
+<Richiesta id= "13"
+Contenuto = "Annusa tutte le persone che ci sono in stanza"
+/>
+<Richiesta id= "14"
+Contenuto = "Bacia tutti i presenti"
+/>
+<Richiesta id= "15"
+Contenuto = "Balla come una ballerina"
+/>
+<Richiesta id= "16"
+Contenuto = "Balla la macarena"
+/>
+<Richiesta id= "17"
+Contenuto = "Balla su una sedia"
+/>
+<Richiesta id= "18"
+Contenuto = "Balla usando solo i fianchi"
+/>
+<Richiesta id= "19"
+Contenuto = "Balla come un robot"
+/>
+<Richiesta id= "20"
+Contenuto = "Balla come una spogliarellista"
+/>
+<Richiesta id= "21"
+Contenuto = "Balla come una cowgirl"
+/>
+<Richiesta id= "22"
+Contenuto = "Balla Conga!"
+/>
+<Richiesta id= "23"
+Contenuto = "Balla la danza del ventre"
+/>
+<Richiesta id= "24"
+Contenuto = "Balla un lento con aaa"
+/>
+<Richiesta id= "25"
+Contenuto = "Bevi un bicchiere d'acqua tutto d'un fiato"
+/>
+<Richiesta id= "26"
+Contenuto = "Butta un bicchiere d'acqua a aaa"
+/>
+<Richiesta id= "27"
+Contenuto = "Canta l'inno nazionale"
+/>
+<Richiesta id= "28"
+Contenuto = "Canta la tua canzone preferita"
+/>
+<Richiesta id= "29"
+Contenuto = "Canta una canzone scelta da aaa"
+/>
+<Richiesta id= "30"
+Contenuto = "Canta una canzone in dialetto"
+/>
+<Richiesta id= "31"
+Contenuto = "Canta una canzone di una pubblicità"
+/>
+<Richiesta id= "32"
+Contenuto = "Canta una canzone di un cartone"
+/>
+<Richiesta id= "33"
+Contenuto = "Canta una filastrocca"
+/>
+<Richiesta id= "34"
+Contenuto = "Canta una canzone e mima"
+/>
+<Richiesta id= "35"
+Contenuto = "Canta la sigla di una serieTv"
+/>
+<Richiesta id= "36"
+Contenuto = "Canta una canzone di un cartone Disney"
+/>
+<Richiesta id= "37"
+Contenuto = "Chiama qualcuno e canta una canzone"
+/>
+<Richiesta id= "38"
+Contenuto = "Chiama una pizzeria e ordina una pizza"
+/>
+<Richiesta id= "39"
+Contenuto = "Chiama un ristorante e prenota un tavolo per domani"
+/>
+<Richiesta id= "40"
+Contenuto = "Chiama il tuo/la tua ex"
+/>
+<Richiesta id= "41"
+Contenuto = "Chiama un tuo amico e digli che presto avrai un figlio"
+/>
+<Richiesta id= "42"
+Contenuto = "Chiama un amico e digli che stai per trasferirti"
+/>
+<Richiesta id= "43"
+Contenuto = "Chiama un supermarket e digli di avere un buono per le cottarelle"
+/>
+<Richiesta id= "44"
+Contenuto = "Chiama un concessionario e dici di avere un buono per un auto gratis"
+/>
+<Richiesta id= "45"
+Contenuto = "Comportati come un maiale"
+/>
+<Richiesta id= "46"
+Contenuto = "Comportati come una scimmia"
+/>
+<Richiesta id= "47"
+Contenuto = "Comportati come un animale scelto da aaa"
+/>
+<Richiesta id= "48"
+Contenuto = "Compra un pacco di caramelle e dalle ai tuoi amici"
+/>
+<Richiesta id= "49"
+Contenuto = "Compra a tutti il gelato"
+/>
+<Richiesta id= "50"
+Contenuto = "Confessa un tuo segreto"
+/>
+<Richiesta id= "51"
+Contenuto = "Confessa un tuo difetto"
+/>
+<Richiesta id= "52"
+Contenuto = "Confessa un tuo vizio"
+/>
+<Richiesta id= "53"
+Contenuto = "Condividi una frase che ti è piaciuta"
+/>
+<Richiesta id= "54"
+Contenuto = "Condividi le tue paure"
+/>
+<Richiesta id= "55"
+Contenuto = "Conta quanti oggetti ci sono nella stanza"
+/>
+<Richiesta id= "56"
+Contenuto = "Conta quanti oggetti made in china ci sono nella stanza"
+/>
+<Richiesta id= "57"
+Contenuto = "Conta quante persone ci sono in stanza"
+/>
+<Richiesta id= "58"
+Contenuto = "Conta quanti cellulari ci sono nel gruppo"
+/>
+<Richiesta id= "59"
+Contenuto = "Conta il numero delle persone presenti, moltiplicalo per 37 e dividi per 12"
+/>
+<Richiesta id= "60"
+Contenuto = "Conta quanti oggetti made in china hai addosso"
+/>
+<Richiesta id= "61"
+Contenuto = "Conta da 30 a 1"
+/>
+<Richiesta id= "62"
+Contenuto = "Corri 50 metri"
+/>
+<Richiesta id= "63"
+Contenuto = "Corri 50 metri saltando"
+/>
+<Richiesta id= "64"
+Contenuto = "Corri 50 metri cantando"
+/>
+<Richiesta id= "65"
+Contenuto = "Crea una tautologia"
+/>
+<Richiesta id= "66"
+Contenuto = "Crea una nuova parola e danne la definizione"
+/>
+<Richiesta id= "67"
+Contenuto = "Crea una poesia "
+/>
+<Richiesta id= "68"
+Contenuto = "Crea una poesia d'amore"
+/>
+<Richiesta id= "69"
+Contenuto = "Crea una barzelletta"
+/>
+<Richiesta id= "70"
+Contenuto = "Dai la definizione di matrimonio"
+/>
+<Richiesta id= "71"
+Contenuto = "Dai uno schiaffo a chi ha più amici su facebook"
+/>
+<Richiesta id= "72"
+Contenuto = "Dai un bacio a chi ha meno amici su facebook"
+/>
+<Richiesta id= "73"
+Contenuto = "Dai un bacio a aaa"
+/>
+<Richiesta id= "74"
+Contenuto = "Dai un abbraccio a tutti i presenti"
+/>
+<Richiesta id= "75"
+Contenuto = "Dai un abbraccio a aaa"
+/>
+<Richiesta id= "76"
+Contenuto = "Dai uno schiaffo a aaa"
+/>
+<Richiesta id= "77"
+Contenuto = "Dai un pugno a chi ha più soldi in questa stanza"
+/>
+<Richiesta id= "78"
+Contenuto = "Dai un soprannome a tutti i presenti"
+/>
+<Richiesta id= "79"
+Contenuto = "Descrivi il tuo ultimo appuntamento"
+/>
+<Richiesta id= "80"
+Contenuto = "Descrivi la giornata di oggi parlando in farfallese"
+/>
+<Richiesta id= "81"
+Contenuto = "Descriviti con un aggettivo"
+/>
+<Richiesta id= "82"
+Contenuto = "Descrivi la tua casa"
+/>
+<Richiesta id= "83"
+Contenuto = "Descrivi la tua vita"
+/>
+<Richiesta id= "84"
+Contenuto = "Descrivi il tuo futuro"
+/>
+<Richiesta id= "85"
+Contenuto = "Descrivi l'ultimo sogno che hai fatto"
+/>
+<Richiesta id= "86"
+Contenuto = "Descrivi la tua giornata tipo"
+/>
+<Richiesta id= "87"
+Contenuto = "Dici l'alfabeto al contrario"
+/>
+<Richiesta id= "88"
+Contenuto = "Disegna la tua stanza"
+/>
+<Richiesta id= "89"
+Contenuto = "Disegna dei baffi su aaa"
+/>
+<Richiesta id= "90"
+Contenuto = "Disegna un monociglio a aaa"
+/>
+<Richiesta id= "91"
+Contenuto = "Disegna tutti i presenti"
+/>
+<Richiesta id= "92"
+Contenuto = "Disegna un tatuaggio"
+/>
+<Richiesta id= "93"
+Contenuto = "Disegna un animale scelto da aaa"
+/>
+<Richiesta id= "94"
+Contenuto = "Elenca 3 vip che ti piacciono"
+/>
+<Richiesta id= "95"
+Contenuto = "Elenca le cose peggiori del tuo/a ex"
+/>
+<Richiesta id= "96"
+Contenuto = "Elenca le persone che ti piacciono con cui non hai concluso niente"
+/>
+<Richiesta id= "97"
+Contenuto = "Elenca le cose che non apprezzi"
+/>
+<Richiesta id= "98"
+Contenuto = "Elenca le cose che apprezzi"
+/>
+<Richiesta id= "99"
+Contenuto = "Elenca tutti i tuoi nemici"
+/>
+<Richiesta id= "100"
+Contenuto = "Fai il solletico a aaa"
+/>
+<Richiesta id= "101"
+Contenuto = "Fai la lap dance"
+/>
+<Richiesta id= "102"
+Contenuto = "Fai dei rumori molesti"
+/>
+<Richiesta id= "103"
+Contenuto = "Fai un massaggio ai piedi a aaa"
+/>
+<Richiesta id= "104"
+Contenuto = "Fai la breakdance"
+/>
+<Richiesta id= "105"
+Contenuto = "Fai le fusa"
+/>
+<Richiesta id= "106"
+Contenuto = "Fai una caricatura di aaa"
+/>
+<Richiesta id= "107"
+Contenuto = "Fai una foto segnaletica"
+/>
+<Richiesta id= "108"
+Contenuto = "Fai una risata diabolica"
+/>
+<Richiesta id= "109"
+Contenuto = "Fai uno scherzo telefonico"
+/>
+<Richiesta id= "110"
+Contenuto = "Fai uno scherzo telefonico ai tuoi genitori"
+/>
+<Richiesta id= "111"
+Contenuto = "Fai uno scherzo telefonico ai tuoi amici"
+/>
+<Richiesta id= "112"
+Contenuto = "Fai uno scherzo a aaa"
+/>
+<Richiesta id= "113"
+Contenuto = "Fingi di essere un pittore "
+/>
+<Richiesta id= "114"
+Contenuto = "Fingi di essere un attore"
+/>
+<Richiesta id= "115"
+Contenuto = "Fingi di essere un cantante "
+/>
+<Richiesta id= "116"
+Contenuto = "Fingi di essere un musicista"
+/>
+<Richiesta id= "117"
+Contenuto = "Fischia più forte che puoi"
+/>
+<Richiesta id= "118"
+Contenuto = "Gara di ballo tra te e aaa"
+/>
+<Richiesta id= "119"
+Contenuto = "Gira per la stanza imitando una bimba di 3 anni"
+/>
+<Richiesta id= "120"
+Contenuto = "Gira per la stanza cantando una canzone di una pubblicità"
+/>
+<Richiesta id= "121"
+Contenuto = "Hai vinto una gara di 200 metri!Fai un giro di corsa!"
+/>
+<Richiesta id= "122"
+Contenuto = "Hai vinto la tua prima gara di ballo!Dimostra cosa sai fare!"
+/>
+<Richiesta id= "123"
+Contenuto = "Il primo che appare sulla tua rubrica deve schiaffeggiarti"
+/>
+<Richiesta id= "124"
+Contenuto = "Il gruppo decide di farti mangiare qualcosa di commestibile"
+/>
+<Richiesta id= "125"
+Contenuto = "Il gruppo decide di farti disegnare qualcosa in particolare"
+/>
+<Richiesta id= "126"
+Contenuto = "Il gruppo decide la canzone che dovrai cantare"
+/>
+<Richiesta id= "127"
+Contenuto = "Il gruppo decide il ballo che dovrai fare"
+/>
+<Richiesta id= "128"
+Contenuto = "Imita una persona del gruppo"
+/>
+<Richiesta id= "129"
+Contenuto = "Imita aaa"
+/>
+<Richiesta id= "130"
+Contenuto = "Lecca un oggetto scelto da aaa"
+/>
+<Richiesta id= "131"
+Contenuto = "Lecca il tuo gomito"
+/>
+<Richiesta id= "132"
+Contenuto = "La persona più alta tra i presenti dovrà darti uno schiaffo"
+/>
+<Richiesta id= "133"
+Contenuto = "La persona più bassa dei presenti dovrà darti un bacio"
+/>
+<Richiesta id= "134"
+Contenuto = "Leggi l'ultimo messaggio ricevuto"
+/>
+<Richiesta id= "135"
+Contenuto = "Leggi un passo dalla Bibbia"
+/>
+<Richiesta id= "136"
+Contenuto = "Mastica quante più gomme puoi in una sola volta"
+/>
+<Richiesta id= "137"
+Contenuto = "Metti il rossetto a aaa"
+/>
+<Richiesta id= "138"
+Contenuto = "Metti un cubetto di ghiaccio nei tuoi pantaloni"
+/>
+<Richiesta id= "139"
+Contenuto = "Mima un film e lascia che il gruppo indovini"
+/>
+<Richiesta id= "140"
+Contenuto = "Mima una canzone e lascia che il gruppo indovini"
+/>
+<Richiesta id= "141"
+Contenuto = "Offri  a tutti un caffè"
+/>
+<Richiesta id= "142"
+Contenuto = "Offri a tutti una cena"
+/>
+<Richiesta id= "143"
+Contenuto = "Prova a fare un rutto"
+/>
+<Richiesta id= "144"
+Contenuto = "Prova a fare una scorreggia"
+/>
+<Richiesta id= "145"
+Contenuto = "Prova a bere 9 bicchieri d'acqua"
+/>
+<Richiesta id= "146"
+Contenuto = "Prova a bere 3 birre velocemente"
+/>
+<Richiesta id= "147"
+Contenuto = "Sei un amante degli alberi, abbracciane uno"
+/>
+<Richiesta id= "148"
+Contenuto = "Urla i nomi di tutti i presenti"
+/>
+<Richiesta id= "149"
+Contenuto = "Urla i soprannomi di tutti i presenti"
+/>
+<Richiesta id= "150"
+Contenuto = "Togli le scarpe e annusati i piedi"
+/>
+</Obbligo>

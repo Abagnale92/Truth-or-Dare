@@ -1,0 +1,50 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Obbligo_o_verita.start"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded">
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="Storyboard1"/>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot è la griglia radice in cui viene inserito tutto il contenuto della pagina-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene il nome dell'applicazione e il titolo della pagina-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - inserire ulteriore contenuto qui-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="bg" HorizontalAlignment="Left" Height="800" VerticalAlignment="Top" Width="480" Source="/Img/background3.png" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="instr" FontFamily="the_quiet_scream.ttf#The Quiet Scream" HorizontalAlignment="Center" Margin="0,0,0,200" TextWrapping="Wrap" Text="aggiungi giocatori" VerticalAlignment="Center" Height="72" Width="419" Foreground="Black" FontSize="48" FontWeight="Bold" Grid.Column="1" TextAlignment="Center"/>
+            <TextBlock x:Name="numGioc" FontFamily="the_quiet_scream.ttf#The Quiet Scream" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" VerticalAlignment="Center" Height="76" Width="86" Foreground="Black" FontSize="48" FontWeight="Bold" Grid.Column="1" TextAlignment="Center"/>
+            <TextBlock x:Name="add" FontFamily="Segoe UI" HorizontalAlignment="Right" Margin="0,362,136,362" TextWrapping="Wrap" VerticalAlignment="Center" Height="76" Width="44" Foreground="Black" FontSize="48" FontWeight="Bold" Grid.Column="1" Text="+" Tap="add_Tap"/>
+            <TextBlock x:Name="sub" FontFamily="Segoe UI" HorizontalAlignment="Left" Margin="136,362,0,362" TextWrapping="Wrap" VerticalAlignment="Center" Height="76" Width="39" Foreground="Black" FontSize="48" FontWeight="Bold" Grid.Column="1" Text="-" Tap="sub_Tap" Visibility="Collapsed"/>
+            <TextBlock x:Name="next" FontFamily="the_quiet_scream.ttf#The Quiet Scream" HorizontalAlignment="Center" Margin="149,0,148,64" TextWrapping="Wrap" Text="avanti" VerticalAlignment="Bottom" Height="76" Width="183" Foreground="Black" FontSize="48" FontWeight="Bold" Grid.Column="1" TextAlignment="Center" Tap="TextBlock_Tap"/>
+            <TextBlock x:Name="_new" FontFamily="the_quiet_scream.ttf#The Quiet Scream" HorizontalAlignment="Center" Margin="31,36,30,692" TextWrapping="Wrap" VerticalAlignment="Center" Height="72" Width="419" Foreground="Black" FontSize="48" FontWeight="Bold" Grid.Column="1" TextAlignment="Center"/>
+
+        </Grid>
+        <Grid x:Name="griglia" HorizontalAlignment="Center" Height="100" Margin="-70.5,0" VerticalAlignment="Bottom" Width="621" Grid.Row="1">
+            <my:AdControl x:Name="firstAd" Width="480" Height="80" AdUnitId="10728926" ApplicationId="94460e7c-cb14-40b8-ab0a-3ba5c7d83e98" Margin="0" VerticalAlignment="Bottom" />
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

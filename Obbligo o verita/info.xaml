@@ -1,0 +1,39 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Obbligo_o_verita.info"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded">
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene il nome dell'applicazione e il titolo della pagina-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - inserire ulteriore contenuto qui-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="bg" HorizontalAlignment="Left" Height="800" VerticalAlignment="Top" Width="480" Source="/Img/background3.png" Grid.ColumnSpan="2"/>
+            <ScrollViewer Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="1000" Margin="10,0,0,-200" VerticalAlignment="Top" Width="470">
+                <TextBlock x:Name="infop" FontFamily="Quicksand-Bold.otf#Quicksand" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" FontSize="33" Height="1000" Width="470" Text="Truth or dare è il classico gioco di gruppo in cui si deve rispondere in modo sincero a varie domande oppure fare qualcosa che faccia divertire i tuoi amici. In questo gioco troverai centinaia di domande ed obblighi divisi in 3 categorie:                NORMALE: adatto per  ogni età.                                   SPICY: domande piu accattivanti.                  BOILENT:  per le persone dai 18 in su.                                    Il gioco funziona a gironi, alla fine di ogni prova al giocatore viene assegnato un punteggio a seconda di come ha superato la prova data. Alla fine del girone vince il giocatore che ha il punteggio piu alto." TextAlignment="Center" FontWeight="Bold"/>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+    <!--LayoutRoot è la griglia radice in cui viene inserito tutto il contenuto della pagina-->
+
+</phone:PhoneApplicationPage>
